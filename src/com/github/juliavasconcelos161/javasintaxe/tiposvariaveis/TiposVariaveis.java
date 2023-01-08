@@ -13,7 +13,7 @@ public class TiposVariaveis {
         numero = 2;
         System.out.println(numero);
 
-        final double VALOR_PI = 5;
+        final double VALOR_PI = 3.14;
 
     }
 
