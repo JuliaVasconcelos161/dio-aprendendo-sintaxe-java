@@ -1,6 +1,6 @@
 package com.github.juliavasconcelos161.javasintaxe.javadoc;
 
-public class comentarios {
+public class Comentarios {
     public static void main(String[] args) {
         //unica linha
         /*

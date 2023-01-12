@@ -5,7 +5,7 @@ package com.github.juliavasconcelos161.javasintaxe.javadoc;
 * @version 1.0
 * @since 09/01/2023
 * */
-public class calculadora {
+public class Calculadora {
     /**
      * Este método é utilizado para somar dois números inteiros
      * @param numeroUm este é o primeiro parâmetro do método
